@@ -6,18 +6,21 @@
 
 */
 
-"Left" = "左";
-"Right" = "右";
-"Top" = "上";
-"Bottom" = "下";
-"Top Left" = "左上";
-"Top Right" = "右上";
-"Bottom Left" = "左下";
-"Bottom Right" = "右下";
+"Left" = "左寄せ";
+"Right" = "右寄せ";
+"Top" = "上寄せ";
+"Bottom" = "下寄せ";
+"Top Left" = "左上寄せ";
+"Top Right" = "右上寄せ";
+"Bottom Left" = "左下寄せ";
+"Bottom Right" = "右下寄せ";
 "Center" = "センタリング";
-"Toggle Zoom" = "ズーム切り替え";
+"Toggle Zoom" = "ズームの切り替え";
 "Maximize" = "最大化";
-"Toggle Full Screen" = "フルスクリーン切り替え";
-"Increase" = "拡大";
-"Reduce" = "縮小";
+"Toggle Full Screen" = "フルスクリーンの切り替え";
+"Increase" = "ウインドウの拡大";
+"Reduce" = "ウインドウの縮小";
 "Next Screen" = "次のスクリーン";
+"Before you report new issue" = "問題を報告する前に";
+"Please make sure that you look at the other issues before you submit a new one." = "問題を報告する前に、報告済みの問題を確認してください。（報告は英語で行ってください）";
+"Take me to github.com" = "github.com を開く";
